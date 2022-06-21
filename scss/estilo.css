@@ -1,0 +1,121 @@
+.titulo {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25rem;
+  font-weight: bold;
+  text-align: center;
+  background-image: url(https://i.pinimg.com/originals/9e/6e/3d/9e6e3d27cd762b6a9956b08a7b1a1944.jpg);
+  background-size: 200px;
+  background-position: center;
+}
+
+nav {
+  color: #f1ba03;
+}
+
+nav .nav-link {
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f1ba03;
+  font-size: 1rem;
+}
+
+nav .nav-link:hover {
+  color: white;
+  background-color: black;
+}
+
+.containertabla .giras {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containertabla table .titulostabla {
+  color: #b6c55d;
+  text-align: center;
+}
+
+.containertabla table .contenidotabla {
+  color: white;
+  text-align: center;
+}
+
+.containerformulario .tituloform {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containerformulario .subtituloform {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containerformulario form {
+  color: wheat;
+}
+
+.containerformulario form .finalform {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containernoticias .noticia1 {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: #0b9466;
+}
+
+.containernoticias .parrafo1 {
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #048b79;
+}
+
+.containernoticias .noticia2 {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containernoticias .parrafo2 {
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.containernoticias .noticia3 {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containernoticias .parrafo3 {
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.containernoticias .noticia4 {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.containernoticias .parrafo4 {
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.containervideos .titulovideos {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+/*# sourceMappingURL=estilo.css.map */

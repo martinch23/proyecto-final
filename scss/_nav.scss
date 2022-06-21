@@ -1,0 +1,13 @@
+nav{color: $letraprincipal;
+    .nav-link{
+        list-style: none;
+        font-family: $fuentemainyfooter;
+        color: $letraprincipal;
+        font-size: 1rem;
+        &:hover{
+            color:$letrahover;
+            background-color: $colorfondohover;
+        }
+    }
+
+}
